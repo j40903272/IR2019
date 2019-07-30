@@ -1,0 +1,9 @@
+nltk
+sumy
+gensim
+jieba
+
+git clone https://github.com/j40903272/bert-extractive-summarizer
+cd bert-extractive-summarizer
+python3 setup.py install
+
